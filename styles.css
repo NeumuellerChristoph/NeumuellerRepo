@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    background-color: blueviolet;
+    color: whitesmoke;
+    text-align: center;
+}
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
